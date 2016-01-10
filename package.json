@@ -1,0 +1,29 @@
+{
+  "name": "cpgo",
+  "version": "0.1.0",
+  "description": "Copy-paste to online clipboard.",
+  "bin": "./bin/cpgo",
+  "main": "./lib/cpgo",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niofis/cpgo.git"
+  },
+  "keywords": [
+    "copy",
+    "paste",
+    "online",
+    "clipboard"
+  ],
+  "author": "Enrique CR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niofis/cpgo/issues"
+  },
+  "homepage": "https://github.com/niofis/cpgo#readme",
+  "dependencies": {
+    "request": "^2.67.0"
+  }
+}
